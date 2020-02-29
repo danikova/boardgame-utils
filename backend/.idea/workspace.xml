@@ -15,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1XzYpXOcmiiJC7XYryvUDgAcPkY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -121,10 +121,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="142" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582470304009">
+    <state x="142" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582967624994">
       <screen x="59" y="27" width="2501" height="1053" />
     </state>
-    <state x="142" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/59.27.2501.1053@59.27.2501.1053" timestamp="1582470304009" />
+    <state x="142" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/59.27.2501.1053@59.27.2501.1053" timestamp="1582967624994" />
     <state width="1026" height="466" key="DebuggerActiveHint" timestamp="1582473326729">
       <screen x="59" y="27" width="2501" height="1053" />
     </state>
